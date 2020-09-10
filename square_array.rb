@@ -4,7 +4,7 @@ def square_array(array)
   array.each do |square|
 
   numbers<< square = square**2
-  puts "#{numbers}"
+  
 end
-#return new_numbers
+return numbers
 end
