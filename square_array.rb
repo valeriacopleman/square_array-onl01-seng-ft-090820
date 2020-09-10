@@ -8,8 +8,8 @@ def square_array(array)
   numbers<< square = square**2
 end
 return numbers 
-  new_numbers.each do |square|
-    more_new_numbers<< square = square**2 
-end
-return more_new_numbers
+  #new_numbers.each do |square|
+    #more_new_numbers<< square = square**2 
+#end
+#return more_new_numbers
 end
