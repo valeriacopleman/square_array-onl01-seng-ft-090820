@@ -6,7 +6,7 @@ def square_array(array)
 end
 return numbers 
 
-def square_array(new_numbers)
+def more_array(new_numbers)
     new_numbers =[9,10,16,25]
   more_new_numbers=[]
   new_numbers.each do |hop|
